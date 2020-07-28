@@ -14,7 +14,7 @@ function checkInfos($data) {
     else {
       return false;
     }
-  }
+}
 
 try {
 
