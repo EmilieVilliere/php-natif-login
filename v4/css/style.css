@@ -1,0 +1,21 @@
+#com-content {
+    margin-bottom: 50px;
+    width: 50%;
+}
+
+#article {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#form-com {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    text-align: center;
+}
